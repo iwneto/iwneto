@@ -12,8 +12,7 @@
 
 ```javascript
 const neto = {
-    webDev: ["JavaScript", "PHP", "MySQL", "React"],
-    CyberSec: ["SIEM", "Phishing Analysis", "Mitre"]
+    CyberSec: ["SIEM", "Phishing Analysis", "Mitre","GRC"]
 };
 ```
 
